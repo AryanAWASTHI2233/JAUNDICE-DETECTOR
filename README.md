@@ -190,6 +190,7 @@ Entering text instead of a number
 Case-sensitivity in "yes/no" (if your system asks)
  
  
+%CODE
 %JAUNDICE-DETECTOR
 %THIS PROJECT HEPLS YOU TO GUIDE THROUGH THE SYMPTOMS OF SPREADING JAUNDICE AND TELLS YOU THE MEASURES OF PRECAUTION
 % JAUNDICE PREDICTOR
@@ -252,3 +253,4 @@ user_have(X):-
     write('{Eat healthy and avoid junk food},'),nl,
     write('{See a doctor quickly}, '),nl,
     write('!').
+%CODE ENDS    
